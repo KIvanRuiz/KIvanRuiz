@@ -3,6 +3,6 @@ im just an aspie mexican that is very interested in programming and wants to lea
 im currently kind of good at hmtl and im currently learning Python
 -------------------------------------------------------------------------------------------------
 # I specialize in
-- English to Spanish and Spanish to English translation
--HTML5
+- English - Spanish and Spanish - English translation
+- HTML5 webpage coding and making
 -------------------------------------------------------------------------------------------------
